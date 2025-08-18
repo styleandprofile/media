@@ -1081,7 +1081,401 @@
     ],
     "correctIndex": 0,
     "explanation": "Machiavelli judged leaders by outcomes — survival and strength of their state."
+  },
+[
+  {
+    "id": 91,
+    "title": "Scandal Control",
+    "question": "A politician faces a media scandal. What is the Machiavellian way to handle it?",
+    "answers": [
+      "Ignore it and hope it fades",
+      "Confront it decisively and move on quickly",
+      "Blame rivals without evidence",
+      "Deny everything even when proof exists"
+    ],
+    "correctIndex": 1,
+    "explanation": "Decisive action contains damage. Delay or denial lets opponents control the narrative."
+  },
+  {
+    "id": 92,
+    "title": "Corporate Takeover",
+    "question": "A CEO acquires a rival company with loyal customers. How should they secure control?",
+    "answers": [
+      "Replace the entire staff immediately",
+      "Integrate leaders slowly to respect loyalty",
+      "Ignore cultural differences and focus on profit",
+      "Leave the company completely independent forever",
+      "Hire outsiders to manage both companies"
+    ],
+    "correctIndex": 1,
+    "explanation": "Gradual integration prevents backlash while still consolidating authority."
+  },
+  {
+    "id": 93,
+    "title": "Social Media Power",
+    "question": "An influencer suddenly gains millions of followers through a viral trend. What risk mirrors Machiavelli’s warning about fortune?",
+    "answers": [
+      "Their fortune will only grow over time",
+      "They are safe because followers always stay loyal",
+      "Their fame may collapse without personal skill to sustain it",
+      "Virality guarantees lasting influence"
+    ],
+    "correctIndex": 2,
+    "explanation": "Like princes lifted by fortune, viral fame is unstable without Virtù to maintain it."
+  },
+  {
+    "id": 94,
+    "title": "Company Layoffs",
+    "question": "A firm must downsize. What method avoids lasting hatred?",
+    "answers": [
+      "Spread layoffs in small waves to soften the impact",
+      "Pretend the cuts are temporary",
+      "Blame employees for inefficiency",
+      "Cut staff all at once and explain the necessity",
+      "Delay decisions to avoid backlash"
+    ],
+    "correctIndex": 3,
+    "explanation": "Swift, honest action limits pain. Repeated cuts or excuses breed resentment."
+  },
+  {
+    "id": 95,
+    "title": "Coalition Governments",
+    "question": "In a coalition, why is siding firmly with one partner safer than staying neutral?",
+    "answers": [
+      "Because neutrality makes you stronger",
+      "Because both sides respect indecision",
+      "Because neutrality wins no allies",
+      "Because shifting sides builds trust"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neutrality leaves you friendless; commitment secures at least one partner’s loyalty."
+  },
+  {
+    "id": 96,
+    "title": "Tech Founder Reputation",
+    "question": "A startup founder wants to be remembered. What is the Machiavellian way?",
+    "answers": [
+      "Perform bold, memorable actions",
+      "Blend in and avoid risks",
+      "Rely only on investor approval",
+      "Copy competitors’ strategies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Great deeds, not safety, cement lasting reputation."
+  },
+  {
+    "id": 97,
+    "title": "Office Politics",
+    "question": "A manager is popular but avoids tough calls. What happens in Machiavelli’s view?",
+    "answers": [
+      "They lose authority when crises demand boldness",
+      "They remain safe because everyone likes them",
+      "They gain loyalty forever",
+      "They become more respected over time"
+    ],
+    "correctIndex": 0,
+    "explanation": "Love without strength fails when decisive action is needed."
+  },
+  {
+    "id": 98,
+    "title": "Celebrity Image",
+    "question": "Why do celebrities cultivate virtuous images even when their private lives differ?",
+    "answers": [
+      "Because public appearances shape loyalty",
+      "Because people always know the truth anyway",
+      "Because being truly virtuous guarantees fame",
+      "Because fame doesn’t require appearances"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli stressed that people judge by appearances, not reality."
+  },
+  {
+    "id": 99,
+    "title": "International Relations",
+    "question": "Why do smaller nations ally with powerful ones?",
+    "answers": [
+      "Because neutrality is always safer",
+      "Because strong allies never exploit them",
+      "To avoid being dominated by rivals",
+      "Because alliances guarantee equality"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weak states ally to avoid destruction, though risk dependency."
+  },
+  {
+    "id": 100,
+    "title": "Startup Burn Rate",
+    "question": "Why is overspending on perks and salaries dangerous for new startups?",
+    "answers": [
+      "Because it drains resources, forcing harsh measures later",
+      "Because investors love high spending",
+      "Because generosity always creates loyalty",
+      "Because overspending guarantees growth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Extravagance ruins sustainability, leading to cuts that destroy trust."
+  },
+  {
+    "id": 101,
+    "title": "Boardroom Loyalty",
+    "question": "How should a CEO test if executives are loyal?",
+    "answers": [
+      "See if they prioritise company goals over personal gain",
+      "Judge by how friendly they act",
+      "Ask competitors their opinion",
+      "See how quickly they agree with everything"
+    ],
+    "correctIndex": 0,
+    "explanation": "Loyal advisors serve the company first. Self-serving ones weaken leadership."
+  },
+  {
+    "id": 102,
+    "title": "Political Scapegoats",
+    "question": "A leader must impose unpopular laws. How should they act?",
+    "answers": [
+      "Delegate the harsh act to ministers and claim credit for mercy",
+      "Personally enforce every punishment",
+      "Blame the people themselves",
+      "Delay until conditions improve"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli advised assigning cruelty to others, while keeping mercy visible."
+  },
+  {
+    "id": 103,
+    "title": "Corporate Neutrality",
+    "question": "Why is it risky for brands to stay neutral in cultural debates?",
+    "answers": [
+      "Because neutrality builds loyalty",
+      "Because neutrality guarantees safety",
+      "Because both sides may distrust them",
+      "Because silence is always respected"
+    ],
+    "correctIndex": 2,
+    "explanation": "Neutrality risks alienating everyone, while bold positions secure one base."
+  },
+  {
+    "id": 104,
+    "title": "Employee Trust",
+    "question": "Why must leaders avoid seizing employee benefits unfairly?",
+    "answers": [
+      "Because perks make leaders weak",
+      "Because workers always forgive leaders",
+      "Because people resent losing perks more than broken promises",
+      "Because employees expect constant generosity"
+    ],
+    "correctIndex": 2,
+    "explanation": "People remember losses bitterly, even more than past generosity."
+  },
+  {
+    "id": 105,
+    "title": "Crisis Leadership",
+    "question": "A company faces a cyber-attack. What Machiavellian principle applies?",
+    "answers": [
+      "Avoid taking responsibility",
+      "Act quickly and decisively",
+      "Wait cautiously before responding",
+      "Downplay the issue publicly"
+    ],
+    "correctIndex": 1,
+    "explanation": "Bold, rapid action limits chaos and shows competence."
+  },
+  {
+    "id": 106,
+    "title": "Media Narratives",
+    "question": "Why do politicians repeat the same slogans endlessly?",
+    "answers": [
+      "Because slogans are always true",
+      "Because voters demand constant entertainment",
+      "Because repetition shapes perception more than truth",
+      "Because repetition guarantees policy success"
+    ],
+    "correctIndex": 2,
+    "explanation": "Machiavelli would note appearances matter more than substance."
+  },
+  {
+    "id": 107,
+    "title": "Workplace Discipline",
+    "question": "A new manager joins a slack office. What should they do first?",
+    "answers": [
+      "Spend years winning affection",
+      "Let everyone continue freely",
+      "Enforce strict rules immediately",
+      "Avoid major decisions"
+    ],
+    "correctIndex": 2,
+    "explanation": "Early firmness secures respect before relaxing into leniency."
+  },
+  {
+    "id": 108,
+    "title": "Social Movements",
+    "question": "Why do populist leaders often gain mass support quickly?",
+    "answers": [
+      "Because elites are always honest",
+      "Because the people desire protection from elites",
+      "Because populists rely on religion alone",
+      "Because people never resist authority"
+    ],
+    "correctIndex": 1,
+    "explanation": "Like the people in Machiavelli’s view, masses seek defence from oppression."
+  },
+  {
+    "id": 109,
+    "title": "Corporate Reputation",
+    "question": "Why do brands emphasise sustainability campaigns?",
+    "answers": [
+      "Because consumers know the full truth",
+      "Because it always guarantees profit",
+      "Because appearing moral strengthens trust",
+      "Because campaigns distract from real issues"
+    ],
+    "correctIndex": 2,
+    "explanation": "Perception of virtue builds loyalty, regardless of the company’s reality."
+  },
+  {
+    "id": 110,
+    "title": "Election Strategy",
+    "question": "Why do candidates attack opponents fiercely during debates?",
+    "answers": [
+      "Because silence wins elections",
+      "Because boldness secures attention and support",
+      "Because insults always create respect",
+      "Because fierce attacks are always moral"
+    ],
+    "correctIndex": 1,
+    "explanation": "Aggressive boldness is rewarded; hesitation is punished."
+  },
+  {
+    "id": 111,
+    "title": "Succession Planning",
+    "question": "Why do many family businesses fail after the founder retires?",
+    "answers": [
+      "Because workers revolt at succession",
+      "Because heirs grow soft in luxury",
+      "Because fortune always changes",
+      "Because founders never plan ahead"
+    ],
+    "correctIndex": 1,
+    "explanation": "Children raised in ease often lack the discipline to sustain power."
+  },
+  {
+    "id": 112,
+    "title": "Tech Giants",
+    "question": "Why do governments fear over-reliance on Big Tech?",
+    "answers": [
+      "Because technology makes people lazy",
+      "Because tech companies always collapse",
+      "Because powerful allies can dominate weaker partners",
+      "Because all companies are inherently unstable"
+    ],
+    "correctIndex": 2,
+    "explanation": "Like strong allies, giants can overshadow and control weaker states."
+  },
+  {
+    "id": 113,
+    "title": "Public Loyalty",
+    "question": "Why is public trust a stronger defence than police crackdowns?",
+    "answers": [
+      "Because people never rebel",
+      "Because trusted leaders are defended voluntarily",
+      "Because police cost too much",
+      "Because trust always prevents crime"
+    ],
+    "correctIndex": 1,
+    "explanation": "Loyalty secures rulers more than force alone."
+  },
+  {
+    "id": 114,
+    "title": "Celebrity Downfalls",
+    "question": "Why do scandals destroy celebrities faster than politicians?",
+    "answers": [
+      "Because celebrities are hated naturally",
+      "Because people always forgive politicians",
+      "Because their power rests solely on appearances",
+      "Because celebrities always lie"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fame without firm foundations collapses when appearances are shattered."
+  },
+  {
+    "id": 115,
+    "title": "Digital Fortresses",
+    "question": "Why can cyber-security fail if employees don’t trust leadership?",
+    "answers": [
+      "Because hackers always win",
+      "Because trust and loyalty defend better than code alone",
+      "Because code is always weak",
+      "Because technology is unreliable"
+    ],
+    "correctIndex": 1,
+    "explanation": "As with fortresses, real protection comes from loyal people, not barriers alone."
+  },
+  {
+    "id": 116,
+    "title": "Public Festivals",
+    "question": "Why do cities invest in parades and sports events?",
+    "answers": [
+      "Because they directly create military power",
+      "Because celebrations generate goodwill for leaders",
+      "Because they destroy rivals",
+      "Because festivals always pay for themselves"
+    ],
+    "correctIndex": 1,
+    "explanation": "Public entertainment builds attachment to rulers and institutions."
+  },
+  {
+    "id": 117,
+    "title": "Corporate Ingratitude",
+    "question": "Why do employees quickly forget past bonuses?",
+    "answers": [
+      "Because people are ungrateful and focus only on current hardship",
+      "Because bonuses weaken the company",
+      "Because bonuses make them disloyal",
+      "Because employees prefer punishment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli warned that benefits fade from memory, but resentments last."
+  },
+  {
+    "id": 118,
+    "title": "Investor Relations",
+    "question": "Why must startups avoid showing weakness to investors?",
+    "answers": [
+      "Because investors, like nobles, exploit weakness for their own gain",
+      "Because investors care only about employees",
+      "Because investors always forgive",
+      "Because weakness guarantees more funding"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ambitious backers can dominate founders if they sense weakness."
+  },
+  {
+    "id": 119,
+    "title": "Protests",
+    "question": "Why are governments that lose public support vulnerable even with strong police?",
+    "answers": [
+      "Because police are always corrupt",
+      "Because force always fails",
+      "Because the people’s loyalty matters more than weapons",
+      "Because protests only happen in poor states"
+    ],
+    "correctIndex": 2,
+    "explanation": "Without goodwill, force cannot sustain authority indefinitely."
+  },
+  {
+    "id": 120,
+    "title": "Final Outcome",
+    "question": "In the end, how should leaders today be judged?",
+    "answers": [
+      "By their private morality",
+      "By results and stability, not intentions",
+      "By their generosity alone",
+      "By their religious devotion"
+    ],
+    "correctIndex": 1,
+    "explanation": "Machiavelli insists outcomes matter most — stability outweighs virtue."
   }
 ]
+
 
 
