@@ -1,0 +1,372 @@
+[
+  {
+    "id": 1,
+    "title": "Fear vs Love",
+    "question": "Machiavelli claims it is better for a ruler to be feared than loved. Why?",
+    "answers": [
+      "Because fear guarantees loyalty",
+      "Because fear can be controlled by the ruler, but love depends on the people",
+      "Because love makes rulers appear weak",
+      "Because fear lasts longer than love"
+    ],
+    "correctIndex": 1,
+    "explanation": "Fear is within the prince’s control, while love relies on others. Stability comes from what you can command, not what you must hope for."
+  },
+  {
+    "id": 2,
+    "title": "Fortune and Boldness",
+    "question": "You are launching a startup and investors ask if you should play safe or take bold risks. What does Machiavelli mean when he says 'Fortune is like a woman'?",
+    "answers": [
+      "Fortune yields to boldness and force",
+      "Fortune always rewards patience",
+      "Fortune favours those who are cautious",
+      "Fortune is unpredictable and therefore useless"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli believed success comes to those who act boldly, seizing opportunities with force rather than waiting for them."
+  },
+  {
+    "id": 3,
+    "title": "Fragile Thrones",
+    "question": "Which type of principality is the hardest to maintain?",
+    "answers": [
+      "A principality ruled by religion",
+      "A new principality gained through one’s own arms and virtue",
+      "A hereditary principality",
+      "A principality gained by fortune or others’ arms"
+    ],
+    "correctIndex": 3,
+    "explanation": "A state gained by luck or outside help collapses easily, since the prince lacks the skill and loyalty to sustain it."
+  },
+  {
+    "id": 4,
+    "title": "Appearances vs Reality",
+    "question": "A politician promises honesty and kindness but faces ruthless opponents. Why must a ruler sometimes act against mercy, faith, humanity, and religion?",
+    "answers": [
+      "Because appearance matters more than reality",
+      "Because cruelty is always more effective than kindness",
+      "Because morality weakens a ruler’s strength",
+      "Because religion is incompatible with politics"
+    ],
+    "correctIndex": 0,
+    "explanation": "People judge by appearances. A leader must seem virtuous while acting as needed for survival."
+  },
+  {
+    "id": 5,
+    "title": "Rebellious Cities",
+    "question": "You conquer a city that has repeatedly rebelled against foreign rulers. What does Machiavelli advise?",
+    "answers": [
+      "Place your capital there to keep close watch",
+      "Destroy the city completely",
+      "Grant the city freedom to win their loyalty",
+      "Appoint a local governor and leave them autonomous"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cities with memories of freedom will always rebel unless destroyed. Machiavelli warns that mercy here leads to danger."
+  },
+  {
+    "id": 6,
+    "title": "Cesare Borgia’s Lesson",
+    "question": "Why does Machiavelli praise Cesare Borgia in 'The Prince'?",
+    "answers": [
+      "For his loyalty to the Church",
+      "For his cunning use of cruelty to establish order",
+      "For his generosity to the people",
+      "For his ability to make allies through kindness"
+    ],
+    "correctIndex": 1,
+    "explanation": "Borgia used cruelty swiftly and decisively, creating stability and fear that allowed him to hold power."
+  },
+  {
+    "id": 7,
+    "title": "Lion and Fox",
+    "question": "A CEO must decide how to negotiate—be tough or clever. Which animal qualities should a ruler imitate?",
+    "answers": [
+      "The lion for strength and the fox for cunning",
+      "The wolf for loyalty and the snake for patience",
+      "The eagle for vision and the bull for strength",
+      "The horse for speed and the owl for wisdom"
+    ],
+    "correctIndex": 0,
+    "explanation": "The lion is strong but vulnerable to traps, the fox is cunning but weak to force. Together they form the complete ruler."
+  },
+  {
+    "id": 8,
+    "title": "Mercenary Dangers",
+    "question": "Why does Machiavelli criticise mercenary troops?",
+    "answers": [
+      "They are unreliable and fight only for pay",
+      "They lack training compared to local armies",
+      "They are too costly for small states",
+      "They are loyal to the Pope instead of the prince"
+    ],
+    "correctIndex": 0,
+    "explanation": "Mercenaries lack loyalty and will abandon you in danger. A ruler must rely on his own arms."
+  },
+  {
+    "id": 9,
+    "title": "The Risk of Fortune",
+    "question": "You rise to fame because of a viral social media boost and outside sponsors. According to Machiavelli, what is your greatest danger?",
+    "answers": [
+      "Lack of personal Virtù",
+      "Overreliance on religion",
+      "Having too much wealth",
+      "Being too merciful"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fame built on fortune, not skill, is fragile. Without personal ability (Virtù), one cannot hold power when luck changes."
+  },
+  {
+    "id": 10,
+    "title": "Trust and Deception",
+    "question": "When Machiavelli writes that 'men are ungrateful, fickle, liars, and deceivers,' what lesson does he mean for rulers?",
+    "answers": [
+      "That rulers must always use fear over love",
+      "That rulers should rely on institutions, not people",
+      "That rulers must appear virtuous, but act as necessity requires",
+      "That rulers should never trust anyone"
+    ],
+    "correctIndex": 2,
+    "explanation": "Since people cannot be fully trusted, the prince must rely on appearances while acting with cold calculation when survival requires it."
+  },
+  {
+    "id": 11,
+    "title": "Cruelty vs Mercy",
+    "question": "A general conquers a region and must decide how to punish rebels. What does Machiavelli argue?",
+    "answers": [
+      "Cruelty, if well used, can stabilise power",
+      "Excessive violence ensures safety forever",
+      "Mercy always creates stronger loyalty"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cruelty, if swift and targeted, can create order. Excessive cruelty breeds hatred, but measured cruelty secures loyalty."
+  },
+  {
+    "id": 12,
+    "title": "Generosity Trap",
+    "question": "A new president gives out endless subsidies to please the people. What would Machiavelli warn?",
+    "answers": [
+      "Excessive generosity drains resources and forces future cruelty",
+      "Generosity wins loyalty forever",
+      "Generosity makes rulers appear divine"
+    ],
+    "correctIndex": 0,
+    "explanation": "Unchecked generosity bankrupts a ruler, forcing heavier taxes or cruelty later. Better to be sparing than ruinous."
+  },
+  {
+    "id": 13,
+    "title": "Neutrality Risks",
+    "question": "Why does Machiavelli advise against neutrality in conflicts?",
+    "answers": [
+      "It makes the ruler appear weak and untrustworthy",
+      "It shows fairness and justice",
+      "It keeps a ruler safe from both sides"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neutral rulers end up despised by both winners and losers. Taking sides secures loyalty from at least one ally."
+  },
+  {
+    "id": 14,
+    "title": "Building Reputation",
+    "question": "A CEO wants to be seen as innovative. What does Machiavelli suggest?",
+    "answers": [
+      "Avoid reputation entirely",
+      "Try to excel in everything equally",
+      "Appear outstanding in one great quality"
+    ],
+    "correctIndex": 2,
+    "explanation": "A prince should cultivate the image of excelling in one defining quality to shape public perception."
+  },
+  {
+    "id": 15,
+    "title": "Foundations of Power",
+    "question": "What two things are the foundations of any state, according to Machiavelli?",
+    "answers": [
+      "Strong laws and strong arms",
+      "Wealth and trade",
+      "Religion and tradition"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli states that laws and military strength are the true foundations of lasting power."
+  },
+  {
+    "id": 16,
+    "title": "Allies and Enemies",
+    "question": "A prince must choose between strong or weak allies. What does Machiavelli advise?",
+    "answers": [
+      "Remain neutral",
+      "Ally with the strong, even if it risks being overshadowed",
+      "Ally with the weak to dominate them later"
+    ],
+    "correctIndex": 2,
+    "explanation": "Weak allies can be controlled and strengthened by the prince, while strong allies may dominate him."
+  },
+  {
+    "id": 17,
+    "title": "Public Image",
+    "question": "Why must a ruler appear religious, even if he is not?",
+    "answers": [
+      "Because appearances shape loyalty and trust",
+      "Because it truly makes him moral",
+      "Because the Pope demands it"
+    ],
+    "correctIndex": 0,
+    "explanation": "Religion, even feigned, strengthens legitimacy. Machiavelli advises appearances over genuine piety."
+  },
+  {
+    "id": 18,
+    "title": "Handling Conspiracies",
+    "question": "A CEO fears his executives plotting against him. What does Machiavelli say prevents conspiracies?",
+    "answers": [
+      "Avoiding decision-making",
+      "Generosity toward rivals",
+      "Fear of punishment and loyalty of the people"
+    ],
+    "correctIndex": 2,
+    "explanation": "Conspiracies collapse if the people support the ruler, because plotters know they won’t gain mass backing."
+  },
+  {
+    "id": 19,
+    "title": "Ingratitude of People",
+    "question": "A politician delivers prosperity but is still criticised. What did Machiavelli warn?",
+    "answers": [
+      "Prosperity ensures eternal support",
+      "People are fickle and forget past benefits",
+      "People are grateful and loyal when prospering"
+    ],
+    "correctIndex": 1,
+    "explanation": "Machiavelli stresses that people quickly forget past benefits and shift loyalty when times change."
+  },
+  {
+    "id": 20,
+    "title": "Founding New Orders",
+    "question": "Why are founders of new political systems often seen as harsh at first?",
+    "answers": [
+      "Because people resist change and must be forced into new habits",
+      "Because cruelty is always more effective",
+      "Because tradition naturally welcomes innovation"
+    ],
+    "correctIndex": 0,
+    "explanation": "People fear change, so founders must appear harsh to enforce new orders until they become accepted."
+  },
+  {
+    "id": 21,
+    "title": "Fortune’s Role",
+    "question": "How much power does Machiavelli think fortune has over human affairs?",
+    "answers": [
+      "It controls everything",
+      "It is irrelevant",
+      "It controls about half, the rest depends on Virtù"
+    ],
+    "correctIndex": 2,
+    "explanation": "Machiavelli believed fortune governs about half of events, but skill and Virtù determine the rest."
+  },
+  {
+    "id": 22,
+    "title": "Arms Before Laws",
+    "question": "Why must a new state prioritise arms before laws?",
+    "answers": [
+      "Because arms are cheaper than laws",
+      "Because without force, laws cannot be enforced",
+      "Because laws naturally create loyalty"
+    ],
+    "correctIndex": 1,
+    "explanation": "A state must secure itself with arms first. Only then can laws be respected and followed."
+  },
+  {
+    "id": 23,
+    "title": "Honourable Promises",
+    "question": "Why does Machiavelli argue that princes need not keep their word?",
+    "answers": [
+      "Because breaking promises shows strength",
+      "Because promises are worthless",
+      "Because men are deceitful, so rulers must match them"
+    ],
+    "correctIndex": 2,
+    "explanation": "Since most men do not keep faith, rulers must be ready to break promises when necessity requires."
+  },
+  {
+    "id": 24,
+    "title": "Fortified Cities",
+    "question": "A prince builds strong fortresses to defend his realm. What would Machiavelli say?",
+    "answers": [
+      "The true fortress is the love of the people",
+      "Fortresses guarantee survival in all cases",
+      "Fortresses protect rulers best"
+    ],
+    "correctIndex": 0,
+    "explanation": "Physical fortresses matter less than the goodwill of the people, which truly secures a ruler’s safety."
+  },
+  {
+    "id": 25,
+    "title": "Dealing with Nobles",
+    "question": "Why must a ruler carefully manage ambitious nobles?",
+    "answers": [
+      "Because nobles always support the people",
+      "Because nobles are naturally loyal",
+      "Because nobles can be dangerous rivals if not controlled"
+    ],
+    "correctIndex": 2,
+    "explanation": "Nobles seek power for themselves. If unchecked, they become rivals to the prince’s authority."
+  },
+  {
+    "id": 26,
+    "title": "People vs Soldiers",
+    "question": "Whose loyalty is more important to a ruler: the people or the soldiers?",
+    "answers": [
+      "The soldiers, because they fight wars",
+      "Both equally, with no difference",
+      "The people, because their support sustains power"
+    ],
+    "correctIndex": 2,
+    "explanation": "A prince can withstand enemies with people’s support, but cannot stand without it, even with armies."
+  },
+  {
+    "id": 27,
+    "title": "Innovation Resistance",
+    "question": "Why is it hardest to introduce new systems of governance?",
+    "answers": [
+      "Because change is always welcomed",
+      "Because innovators lack support from both old and new factions",
+      "Because old systems protect innovators"
+    ],
+    "correctIndex": 1,
+    "explanation": "The old order resists losing power, and the new order’s supporters are uncertain. Innovators face hostility on all sides."
+  },
+  {
+    "id": 28,
+    "title": "Military Reputation",
+    "question": "Why must a ruler maintain a strong military reputation even in peace?",
+    "answers": [
+      "Because it deters enemies and keeps subjects loyal",
+      "Because peace makes armies unnecessary",
+      "Because it wastes resources"
+    ],
+    "correctIndex": 0,
+    "explanation": "A reputation for military strength deters rivals and inspires loyalty. Neglecting it invites danger."
+  },
+  {
+    "id": 29,
+    "title": "Delegating Cruelty",
+    "question": "Why should a ruler delegate harsh punishments to ministers?",
+    "answers": [
+      "So the ruler seems merciful while order is maintained",
+      "So the ruler can avoid decision-making",
+      "So the ruler can focus only on war"
+    ],
+    "correctIndex": 0,
+    "explanation": "Cruel acts should be attributed to others, while the prince gains credit for mercy."
+  },
+  {
+    "id": 30,
+    "title": "Stability Over Virtue",
+    "question": "Why does Machiavelli argue stability is more important than personal virtue in rulers?",
+    "answers": [
+      "Because stability ensures the survival of the state",
+      "Because virtue always weakens rulers",
+      "Because people only respect immoral rulers"
+    ],
+    "correctIndex": 0,
+    "explanation": "The survival of the state outweighs personal morality. A ruler’s duty is stability, not sainthood."
+  }
+]
