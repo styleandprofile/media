@@ -369,4 +369,358 @@
     "correctIndex": 0,
     "explanation": "The survival of the state outweighs personal morality. A ruler’s duty is stability, not sainthood."
   }
+  {
+    "id": 31,
+    "title": "Trusting Ministers",
+    "question": "What does Machiavelli say about choosing ministers?",
+    "answers": [
+      "A wise ruler surrounds himself with loyal and capable men",
+      "A ruler should avoid all advisors"
+    ],
+    "correctIndex": 0,
+    "explanation": "The quality of ministers reflects the prince. Capable advisors strengthen rule, while weak ones ruin it."
+  },
+  {
+    "id": 32,
+    "title": "Fear of Hatred",
+    "question": "Why must a prince avoid being hated?",
+    "answers": [
+      "Hatred unites conspiracies against him",
+      "Being hated proves he is strong"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fear keeps men obedient, but hatred drives them to destroy rulers."
+  },
+  {
+    "id": 33,
+    "title": "Military First",
+    "question": "A ruler focuses only on art and music, ignoring military practice. What would Machiavelli say?",
+    "answers": [
+      "He risks losing his state",
+      "Culture ensures loyalty"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neglect of arms leaves a ruler defenceless. Military strength is the foundation of all security."
+  },
+  {
+    "id": 34,
+    "title": "Promises in Politics",
+    "question": "Why may rulers break promises, according to Machiavelli?",
+    "answers": [
+      "Because men are deceitful, so rulers must be too",
+      "Because promises have no meaning",
+      "Because breaking promises always earns respect"
+    ],
+    "correctIndex": 0,
+    "explanation": "Since others deceive, rulers cannot survive by keeping faith when it harms them."
+  },
+  {
+    "id": 35,
+    "title": "New Rulers",
+    "question": "Why do new rulers face more danger than hereditary ones?",
+    "answers": [
+      "Because people are used to the old line",
+      "Because new rulers always lack money",
+      "Because the Church opposes them"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hereditary rulers benefit from tradition. New rulers must win loyalty through actions."
+  },
+  {
+    "id": 36,
+    "title": "Fortune and Floods",
+    "question": "Machiavelli compares fortune to a river. What does he mean?",
+    "answers": [
+      "It floods violently, but men can build defences",
+      "It always flows gently",
+      "It cannot be resisted at all",
+      "It brings wealth without effort"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fortune overwhelms unprepared states, but foresight and Virtù can limit its damage."
+  },
+  {
+    "id": 37,
+    "title": "Respect Through Arms",
+    "question": "Why do unarmed prophets fail?",
+    "answers": [
+      "Because people do not respect those without power",
+      "Because religion itself is weak"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli notes that prophets with arms succeed, unarmed ones are destroyed."
+  },
+  {
+    "id": 38,
+    "title": "Managing Change",
+    "question": "Why is it dangerous for a ruler to reform existing institutions?",
+    "answers": [
+      "Because those who benefit from the old order resist fiercely",
+      "Because people always love innovation"
+    ],
+    "correctIndex": 0,
+    "explanation": "Losers from reform are enemies, while those who benefit are lukewarm supporters until they see results."
+  },
+  {
+    "id": 39,
+    "title": "Love of Freedom",
+    "question": "Why are republics harder to control than principalities?",
+    "answers": [
+      "Because citizens remember liberty and fight to regain it",
+      "Because republics lack wealth",
+      "Because republics avoid religion"
+    ],
+    "correctIndex": 0,
+    "explanation": "Memories of liberty make republics restless under princes."
+  },
+  {
+    "id": 40,
+    "title": "War or Peace",
+    "question": "Why must rulers always study war, even in peace?",
+    "answers": [
+      "Because peace makes rulers lazy",
+      "Because fortune favours armed rulers",
+      "Because war is inevitable and preparation ensures survival"
+    ],
+    "correctIndex": 2,
+    "explanation": "Constant readiness for war preserves states. Neglect invites sudden ruin."
+  },
+  {
+    "id": 41,
+    "title": "Popularity",
+    "question": "Which is safer for a ruler: to be loved by the people or supported by the nobles?",
+    "answers": [
+      "The nobles, because they control wealth",
+      "The people, because their support is broader"
+    ],
+    "correctIndex": 1,
+    "explanation": "The people’s backing is more stable than noble favour, which often turns into rivalry."
+  },
+  {
+    "id": 42,
+    "title": "Virtue vs Fortune",
+    "question": "A prince rises to power by luck. What weakness does Machiavelli see?",
+    "answers": [
+      "He cannot maintain power without his own Virtù",
+      "He will always be generous",
+      "He will always be cruel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Power by fortune is unstable without skill to sustain it."
+  },
+  {
+    "id": 43,
+    "title": "Cruelty Well Used",
+    "question": "What is 'well used' cruelty?",
+    "answers": [
+      "Cruelty that is quick and decisive, then not repeated",
+      "Cruelty that grows worse over time",
+      "Cruelty used constantly"
+    ],
+    "correctIndex": 0,
+    "explanation": "Swift cruelty at the start may secure order. Repeated cruelty breeds hatred."
+  },
+  {
+    "id": 44,
+    "title": "Weak States",
+    "question": "Why do weak states invite attack?",
+    "answers": [
+      "Because fortune punishes weakness",
+      "Because predators sense weakness",
+      "Because people abandon rulers without strength"
+    ],
+    "correctIndex": 2,
+    "explanation": "Without strength, rulers lose loyalty and become easy prey for enemies."
+  },
+  {
+    "id": 45,
+    "title": "Public Works",
+    "question": "How can a prince win popularity among the people?",
+    "answers": [
+      "By hosting festivals and public projects",
+      "By lowering all taxes",
+      "By avoiding military campaigns"
+    ],
+    "correctIndex": 0,
+    "explanation": "Visible projects and celebrations attach people to the ruler."
+  },
+  {
+    "id": 46,
+    "title": "Corruption",
+    "question": "Why is a corrupt city harder to rule?",
+    "answers": [
+      "Because people are used to luxury and resist discipline",
+      "Because corruption destroys loyalty and institutions"
+    ],
+    "correctIndex": 1,
+    "explanation": "Corruption makes citizens selfish, weakening bonds of trust and obedience."
+  },
+  {
+    "id": 47,
+    "title": "Religion’s Use",
+    "question": "Why does Machiavelli praise religion in politics?",
+    "answers": [
+      "Because it keeps armies obedient",
+      "Because it creates respect for law",
+      "Because it makes rulers saints"
+    ],
+    "correctIndex": 1,
+    "explanation": "Religion strengthens obedience to law and discipline in states."
+  },
+  {
+    "id": 48,
+    "title": "Fortune’s Half",
+    "question": "How much does fortune control events?",
+    "answers": [
+      "Half, the other half depends on Virtù",
+      "All of them",
+      "Almost none"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli believed fortune ruled half, human skill the rest."
+  },
+  {
+    "id": 49,
+    "title": "Nobles vs People",
+    "question": "Why do nobles threaten rulers more than common people?",
+    "answers": [
+      "Because nobles seek to command, while people seek only not to be oppressed",
+      "Because nobles are always more intelligent",
+      "Because nobles are naturally cruel"
+    ],
+    "correctIndex": 0,
+    "explanation": "Nobles desire to rule, while people desire only protection."
+  },
+  {
+    "id": 50,
+    "title": "Unity",
+    "question": "How should a ruler keep a divided city united?",
+    "answers": [
+      "By playing factions against each other",
+      "By enforcing strong laws applied to all",
+      "By allowing nobles to dominate"
+    ],
+    "correctIndex": 1,
+    "explanation": "Impartial laws unite people better than manipulation."
+  },
+  {
+    "id": 51,
+    "title": "Wealth and Power",
+    "question": "Why is wealth alone not enough for rulers?",
+    "answers": [
+      "Because fortune can take it away",
+      "Because armies, not riches, secure power"
+    ],
+    "correctIndex": 1,
+    "explanation": "Wealth attracts envy but cannot defend a state. Arms do."
+  },
+  {
+    "id": 52,
+    "title": "Arms of Others",
+    "question": "Why are auxiliary troops more dangerous than mercenaries?",
+    "answers": [
+      "Because they are loyal to another prince",
+      "Because they are too expensive",
+      "Because they lack courage"
+    ],
+    "correctIndex": 0,
+    "explanation": "Auxiliaries fight for their prince, not yours, making you dependent and exposed."
+  },
+  {
+    "id": 53,
+    "title": "Reputation",
+    "question": "How does a ruler build a strong reputation?",
+    "answers": [
+      "Through decisive great actions",
+      "By making small gestures constantly",
+      "By avoiding notice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Bold, memorable actions shape lasting reputation."
+  },
+  {
+    "id": 54,
+    "title": "Stability",
+    "question": "Why is stability more important than justice for Machiavelli?",
+    "answers": [
+      "Because stability preserves the state",
+      "Because justice is meaningless",
+      "Because people dislike justice"
+    ],
+    "correctIndex": 0,
+    "explanation": "Without stability, justice cannot even exist. The state must survive first."
+  },
+  {
+    "id": 55,
+    "title": "Hatred",
+    "question": "What is more dangerous than being feared?",
+    "answers": [
+      "Being hated",
+      "Being mocked",
+      "Being generous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fear is safe. Hatred unites enemies and destroys rulers."
+  },
+  {
+    "id": 56,
+    "title": "Economy",
+    "question": "Why must a prince avoid heavy taxation?",
+    "answers": [
+      "Because it makes him seem weak",
+      "Because it creates resentment and hatred",
+      "Because it weakens the army"
+    ],
+    "correctIndex": 1,
+    "explanation": "Taxes that burden subjects breed hatred, the greatest threat to princes."
+  },
+  {
+    "id": 57,
+    "title": "Decision Making",
+    "question": "How should a ruler act in times of crisis?",
+    "answers": [
+      "Quickly and decisively",
+      "Cautiously and slowly",
+      "Not at all"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fortune favours boldness. Delay invites ruin."
+  },
+  {
+    "id": 58,
+    "title": "Flatterers",
+    "question": "Why must rulers avoid flatterers?",
+    "answers": [
+      "Because flattery blinds rulers to the truth",
+      "Because flattery makes rulers generous",
+      "Because flattery strengthens armies"
+    ],
+    "correctIndex": 0,
+    "explanation": "A prince who believes flatterers loses good judgment. Only honest counsel preserves him."
+  },
+  {
+    "id": 59,
+    "title": "Fear Over Love",
+    "question": "Why is fear safer than love?",
+    "answers": [
+      "Because people obey fear of punishment",
+      "Because love never fails",
+      "Because love makes rulers strong"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fear is within a ruler’s control, love depends on others. Fear ensures obedience."
+  },
+  {
+    "id": 60,
+    "title": "Legacy",
+    "question": "How should rulers be judged in Machiavelli’s view?",
+    "answers": [
+      "By results and stability, not intentions",
+      "By their generosity alone",
+      "By how religious they are"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli cares for outcomes. A ruler is judged by success in securing power."
+  }
 ]
+
