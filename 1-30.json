@@ -368,7 +368,7 @@
     ],
     "correctIndex": 0,
     "explanation": "The survival of the state outweighs personal morality. A ruler’s duty is stability, not sainthood."
-  }
+  },
   {
     "id": 31,
     "title": "Trusting Ministers",
@@ -721,6 +721,367 @@
     ],
     "correctIndex": 0,
     "explanation": "Machiavelli cares for outcomes. A ruler is judged by success in securing power."
+  },
+  {
+    "id": 61,
+    "title": "Peace and Weakness",
+    "question": "A company enjoys years of success and stops innovating. What would Machiavelli warn?",
+    "answers": [
+      "That comfort makes leaders careless and unprepared for disruption",
+      "That peace ruins the economy",
+      "That people hate prosperous companies"
+    ],
+    "correctIndex": 0,
+    "explanation": "Long stability leads to complacency. When crisis hits, unprepared leaders collapse."
+  },
+  {
+    "id": 62,
+    "title": "Dealing with Fortune",
+    "question": "A startup faces sudden market changes. What kind of founder succeeds?",
+    "answers": [
+      "One with adaptability and boldness to pivot",
+      "One who stays overly cautious",
+      "One who ignores trends completely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli favours leaders who boldly adjust to shifting circumstances."
+  },
+  {
+    "id": 63,
+    "title": "Nobles’ Ambition",
+    "question": "In a political party, why are ambitious insiders more dangerous than ordinary voters?",
+    "answers": [
+      "Because insiders desire power themselves",
+      "Because insiders are lazy",
+      "Because insiders pay more taxes"
+    ],
+    "correctIndex": 0,
+    "explanation": "Like nobles, ambitious insiders compete directly with the leader for influence."
+  },
+  {
+    "id": 64,
+    "title": "Generosity and Ruin",
+    "question": "A mayor gives out endless subsidies to gain popularity. What’s the danger?",
+    "answers": [
+      "It drains resources and forces harsher measures later",
+      "It makes people hate generous leaders",
+      "Generosity always weakens authority"
+    ],
+    "correctIndex": 0,
+    "explanation": "Excessive giving empties budgets, creating backlash when the benefits stop."
+  },
+  {
+    "id": 65,
+    "title": "Founders of Kingdoms",
+    "question": "Why are startup founders often seen as harsh leaders?",
+    "answers": [
+      "Because enforcing new rules requires forceful discipline",
+      "Because religion makes them seem harsh",
+      "Because fortune punishes innovators"
+    ],
+    "correctIndex": 0,
+    "explanation": "New orders demand strict enforcement before culture accepts change."
+  },
+  {
+    "id": 66,
+    "title": "Military Exercises",
+    "question": "What should a CEO do during calm times?",
+    "answers": [
+      "Study competitors and practise strategy constantly",
+      "Focus only on hobbies",
+      "Ignore the market"
+    ],
+    "correctIndex": 0,
+    "explanation": "Like studying war in peace, leaders must sharpen skills before crises."
+  },
+  {
+    "id": 67,
+    "title": "Being Feared",
+    "question": "Why is a strict manager more reliable than a friendly one?",
+    "answers": [
+      "Because fear of consequences depends on the manager, while love depends on staff moods",
+      "Because love always fails",
+      "Because fear makes people happy"
+    ],
+    "correctIndex": 0,
+    "explanation": "Control through respect and discipline is steadier than popularity alone."
+  },
+  {
+    "id": 68,
+    "title": "Auxiliary Troops",
+    "question": "Why is it risky for a company to rely solely on consultants?",
+    "answers": [
+      "Because they ultimately serve other clients’ interests",
+      "Because they demand high fees",
+      "Because they lack creativity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Like auxiliaries, consultants fight for others, not you. Dependence makes you vulnerable."
+  },
+  {
+    "id": 69,
+    "title": "Virtù Defined",
+    "question": "In modern terms, what is Virtù for a leader?",
+    "answers": [
+      "Skill, boldness, and willpower to shape events",
+      "Religious piety",
+      "Moral goodness"
+    ],
+    "correctIndex": 0,
+    "explanation": "Virtù means effectiveness and decisiveness, not traditional morality."
+  },
+  {
+    "id": 70,
+    "title": "Fortune’s Limits",
+    "question": "Why do some businesses survive recessions better than others?",
+    "answers": [
+      "Because leaders prepare and adapt to fortune’s blows",
+      "Because fortune is imaginary",
+      "Because fortune is always generous"
+    ],
+    "correctIndex": 0,
+    "explanation": "Prepared leaders reduce the damage of bad fortune through strategy and action."
+  },
+  {
+    "id": 71,
+    "title": "Weak Leaders",
+    "question": "What happens to a politician who hesitates in crisis?",
+    "answers": [
+      "They are punished by events and lose authority",
+      "They gain respect for caution",
+      "They survive by avoiding risks"
+    ],
+    "correctIndex": 0,
+    "explanation": "Hesitation destroys credibility; boldness inspires trust."
+  },
+  {
+    "id": 72,
+    "title": "Hatred of Taxes",
+    "question": "Why should governments avoid excessive taxation?",
+    "answers": [
+      "Because it creates hatred among citizens",
+      "Because it weakens the army",
+      "Because it makes leaders poor"
+    ],
+    "correctIndex": 0,
+    "explanation": "Excessive taxes stir resentment that can overthrow governments."
+  },
+  {
+    "id": 73,
+    "title": "Flattery",
+    "question": "How can a CEO avoid being blinded by flattery?",
+    "answers": [
+      "By surrounding themselves with advisors who dare to speak truth",
+      "By rejecting all advice",
+      "By letting everyone speak freely without filter"
+    ],
+    "correctIndex": 0,
+    "explanation": "Honest advisors are rare, but essential to resist deception."
+  },
+  {
+    "id": 74,
+    "title": "Harsh Beginnings",
+    "question": "Why are new managers often stricter at first?",
+    "answers": [
+      "Because they must enforce discipline before gaining trust",
+      "Because cruelty always creates love",
+      "Because people like punishment"
+    ],
+    "correctIndex": 0,
+    "explanation": "Strong discipline early secures authority before easing into mercy."
+  },
+  {
+    "id": 75,
+    "title": "Neutral Rulers",
+    "question": "Why is it risky for countries to stay neutral in global conflicts?",
+    "answers": [
+      "Because neither side trusts or protects neutrals",
+      "Because neutrality makes nations strong",
+      "Because neutrality creates wealth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Neutral states risk isolation and lack allies when attacked."
+  },
+  {
+    "id": 76,
+    "title": "Mercy and Cruelty",
+    "question": "A CEO must lay off workers. What is the Machiavellian approach?",
+    "answers": [
+      "Do it decisively at once, not in repeated waves",
+      "Spread layoffs over time to show mercy",
+      "Avoid layoffs completely"
+    ],
+    "correctIndex": 0,
+    "explanation": "Swift, concentrated cruelty creates stability; drawn-out pain breeds hatred."
+  },
+  {
+    "id": 77,
+    "title": "Ingratitude",
+    "question": "Why do voters often abandon leaders who delivered prosperity?",
+    "answers": [
+      "Because people are naturally ungrateful and forget benefits",
+      "Because rulers always turn cruel later",
+      "Because people love change"
+    ],
+    "correctIndex": 0,
+    "explanation": "Human nature quickly forgets past gains when faced with new challenges."
+  },
+  {
+    "id": 78,
+    "title": "Conspiracies",
+    "question": "How can a tech founder prevent a boardroom coup?",
+    "answers": [
+      "By keeping employees and investors loyal",
+      "By constant cruelty",
+      "By avoiding public appearances"
+    ],
+    "correctIndex": 0,
+    "explanation": "Popular support discourages conspirators, who fear backlash if they move."
+  },
+  {
+    "id": 79,
+    "title": "The Church",
+    "question": "Why are global NGOs like the UN hard to challenge?",
+    "answers": [
+      "Because moral authority gives them legitimacy",
+      "Because they have the strongest armies",
+      "Because fortune always favours them"
+    ],
+    "correctIndex": 0,
+    "explanation": "Moral and symbolic power strengthens legitimacy beyond force alone."
+  },
+  {
+    "id": 80,
+    "title": "Fortune and Boldness",
+    "question": "What kind of political campaign is most likely to succeed?",
+    "answers": [
+      "One that takes bold risks and seizes attention",
+      "One that hesitates to offend anyone",
+      "One that avoids bold statements"
+    ],
+    "correctIndex": 0,
+    "explanation": "Fortune favours daring campaigns, not timid ones."
+  },
+  {
+    "id": 81,
+    "title": "Advisors",
+    "question": "How can a business leader judge if their COO is trustworthy?",
+    "answers": [
+      "If the COO puts the company’s success before personal gain",
+      "By measuring their salary",
+      "By asking competitors"
+    ],
+    "correctIndex": 0,
+    "explanation": "A good minister serves the leader’s interest, not just their own."
+  },
+  {
+    "id": 82,
+    "title": "Public Image",
+    "question": "Why do politicians stress family values even if they don’t live by them?",
+    "answers": [
+      "Because appearances win votes",
+      "Because virtue guarantees power",
+      "Because people always know the truth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Public image matters more than private behaviour; perception drives loyalty."
+  },
+  {
+    "id": 83,
+    "title": "Goodwill of People",
+    "question": "Why is public trust more protective than police forces alone?",
+    "answers": [
+      "Because citizens defend leaders they trust",
+      "Because police are too costly",
+      "Because police always fail"
+    ],
+    "correctIndex": 0,
+    "explanation": "When people trust leadership, they defend it willingly, more than institutions alone."
+  },
+  {
+    "id": 84,
+    "title": "Religion and Armies",
+    "question": "How does patriotism strengthen modern armies?",
+    "answers": [
+      "By instilling discipline and unity",
+      "By making soldiers rich",
+      "By rewarding cruelty"
+    ],
+    "correctIndex": 0,
+    "explanation": "Shared beliefs and identity give armies cohesion and courage."
+  },
+  {
+    "id": 85,
+    "title": "Wealth Distribution",
+    "question": "Why should governments avoid property seizures?",
+    "answers": [
+      "Because people resent losing property more than losing relatives",
+      "Because property makes rulers weak",
+      "Because property always leads to coups"
+    ],
+    "correctIndex": 0,
+    "explanation": "Property is deeply personal; confiscation breeds lasting hatred."
+  },
+  {
+    "id": 86,
+    "title": "Luxury",
+    "question": "Why do companies collapse after years of excess perks?",
+    "answers": [
+      "Because luxury softens discipline and focus",
+      "Because luxury makes leaders popular",
+      "Because luxury creates wealth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Luxury breeds complacency, making organisations vulnerable to decline."
+  },
+  {
+    "id": 87,
+    "title": "Maintaining Power",
+    "question": "What secures a government best in the modern world?",
+    "answers": [
+      "Strong institutions and a capable military",
+      "Generosity alone",
+      "Harsh policing alone"
+    ],
+    "correctIndex": 0,
+    "explanation": "Institutions and force ensure survival; gifts and cruelty alone do not."
+  },
+  {
+    "id": 88,
+    "title": "Popularity Through Festivals",
+    "question": "Why do politicians fund public holidays and events?",
+    "answers": [
+      "Because celebrations bind people emotionally to leaders",
+      "Because they weaken opposition",
+      "Because they directly create wealth"
+    ],
+    "correctIndex": 0,
+    "explanation": "Festivals and public rituals build loyalty and goodwill."
+  },
+  {
+    "id": 89,
+    "title": "Weak Successors",
+    "question": "Why do many children of successful billionaires fail?",
+    "answers": [
+      "Because fortune changes",
+      "Because heirs grow up in comfort and lack discipline",
+      "Because people always revolt against them"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inherited privilege often weakens successors, leaving them unable to sustain power."
+  },
+  {
+    "id": 90,
+    "title": "Final Judgment",
+    "question": "How should modern leaders be judged?",
+    "answers": [
+      "By their ability to preserve stability and results",
+      "By their personal morality",
+      "By their generosity"
+    ],
+    "correctIndex": 0,
+    "explanation": "Machiavelli judged leaders by outcomes — survival and strength of their state."
   }
 ]
+
 
